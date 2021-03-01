@@ -1,1 +1,1 @@
-# Python_API_Weather
+This project analyzed the climates of 518 cities across the world. More specifically, I compared the latitude of a city to its maximum temperature, humidity, cloudiness and wind speed. TO assemble the data, I used an api for openweathermap.org. I created empty lists to hold eaach data point. I used matplotlib to create the plots. I used scipy.stats to calculate and create a regression line for each graph. 
